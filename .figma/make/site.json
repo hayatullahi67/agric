@@ -1,0 +1,10 @@
+{
+  "description": "A professional multi-page platform enabling global B2B trading of bulk agro-products, metals, and commodities with easy product browsing and quote requests.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
